@@ -3,9 +3,9 @@
 py-encrypter encryptes your python file or an entire directory and outputs a single .py file which stores n runs your encrypted files
 
 # cmd line Arguments
--i <filepath>
-[-d] <dirpath>
-[-o] <output filepath>
+-i (filepath)
+[-d] (dirpath)
+[-o] (output filepath)
 
 # Usage
 ## encrypting a single file:
